@@ -1,4 +1,4 @@
-# Emulating-Portrait-Bokeh
+# Emulating-Portrait-Bokeh-Effect
 Emulating bokeh effect using a pretrained machine learning model.
 
 Removing the subject from the image using a pretrained model to retrieve the subject mask. 
